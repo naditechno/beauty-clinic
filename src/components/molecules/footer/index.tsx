@@ -64,7 +64,7 @@ function Footer() {
         <div className="flex flex-col items-center text-center md:flex-row md:justify-between">
           <div className="flex items-center">
             <Image src="/logo-beauty.png" alt="logo" height={36} width={133} />
-            <h1 className="font-bold text-lg md:text-2xl">Dental Clinic</h1>
+            <h1 className="font-bold text-lg md:text-2xl">Beauty Clinic</h1>
           </div>
           <span className="leading-6 lg:text-right text-primary-dark text-sm md:text-base">
             All Rights Reserved by Naditechno 2025
