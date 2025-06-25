@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "icon": "/images/test-beauty.jpg",
+      "title": "General Checkup",
+      "subtitle": "1,235"
+    },
+    {
+      "icon": "/images/test-beauty.jpg",
+      "title": "Cosmetic Dentistry",
+      "subtitle": "980"
+    },
+    {
+      "icon": "/images/test-beauty.jpg",
+      "title": "Teeth Cleaning",
+      "subtitle": "870"
+    },
+    {
+      "icon": "/images/test-beauty.jpg",
+      "title": "Whitening",
+      "subtitle": "740"
+    },
+    {
+      "icon": "/images/test-beauty.jpg",
+      "title": "Tooth Restoration",
+      "subtitle": "665"
+    },
+    {
+      "icon": "/images/test-beauty.jpg",
+      "title": "Kids Dental Care",
+      "subtitle": "590"
+    },
+    {
+      "icon": "/images/test-beauty.jpg",
+      "title": "Appointments",
+      "subtitle": "1,120"
+    },
+    {
+      "icon": "/images/test-beauty.jpg",
+      "title": "Expert Doctors",
+      "subtitle": "1,300"
+    }
+  ]
+}
