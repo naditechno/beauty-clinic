@@ -66,6 +66,7 @@ export default function PromoSection({
               icon={item.icon}
               title={item.title}
               subtitle={item.subtitle}
+              promo={item.promo}
             />
           </div>
         ))}

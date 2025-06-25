@@ -13,4 +13,5 @@ export interface CategoriesProps {
   icon: string;
   title: string;
   subtitle: string;
+  promo?: string;
 }

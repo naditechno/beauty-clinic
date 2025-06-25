@@ -3,42 +3,50 @@
     {
       "icon": "/images/test-beauty.jpg",
       "title": "Facial Treatments",
-      "subtitle": "1,235 clients"
+      "subtitle": "1,235 clients",
+      "promo": "20% off first facial"
     },
     {
       "icon": "/images/test-beauty.jpg",
       "title": "Skin Rejuvenation",
-      "subtitle": "980 sessions"
+      "subtitle": "980 sessions",
+      "promo": "Buy 2, get 1 free"
     },
     {
       "icon": "/images/test-beauty.jpg",
       "title": "Acne Solutions",
-      "subtitle": "870 treated"
+      "subtitle": "870 treated",
+      "promo": "Free consultation"
     },
     {
       "icon": "/images/test-beauty.jpg",
       "title": "Skin Whitening",
-      "subtitle": "740 results"
+      "subtitle": "740 results",
+      "promo": "25% off whitening"
     },
     {
       "icon": "/images/test-beauty.jpg",
       "title": "Anti-Aging Care",
-      "subtitle": "665 procedures"
+      "subtitle": "665 procedures",
+      "promo": "15% off for members"
     },
     {
       "icon": "/images/test-beauty.jpg",
       "title": "Body Contouring",
-      "subtitle": "590 treatments"
+      "subtitle": "590 treatments",
+      "promo": "10% off for first-timers"
     },
     {
       "icon": "/images/test-beauty.jpg",
       "title": "Appointments Made",
-      "subtitle": "1,120 bookings"
+      "subtitle": "1,120 bookings",
+      "promo": "Free skin check"
     },
     {
       "icon": "/images/test-beauty.jpg",
       "title": "Certified Experts",
-      "subtitle": "1,300 professionals"
+      "subtitle": "1,300 professionals",
+      "promo": "Free consult this week"
     }
   ]
 }
