@@ -2,43 +2,43 @@
   "data": [
     {
       "icon": "/images/test-beauty.jpg",
-      "title": "General Checkup",
-      "subtitle": "1,235"
+      "title": "Facial Treatments",
+      "subtitle": "1,235 clients"
     },
     {
       "icon": "/images/test-beauty.jpg",
-      "title": "Cosmetic Dentistry",
-      "subtitle": "980"
+      "title": "Skin Rejuvenation",
+      "subtitle": "980 sessions"
     },
     {
       "icon": "/images/test-beauty.jpg",
-      "title": "Teeth Cleaning",
-      "subtitle": "870"
+      "title": "Acne Solutions",
+      "subtitle": "870 treated"
     },
     {
       "icon": "/images/test-beauty.jpg",
-      "title": "Whitening",
-      "subtitle": "740"
+      "title": "Skin Whitening",
+      "subtitle": "740 results"
     },
     {
       "icon": "/images/test-beauty.jpg",
-      "title": "Tooth Restoration",
-      "subtitle": "665"
+      "title": "Anti-Aging Care",
+      "subtitle": "665 procedures"
     },
     {
       "icon": "/images/test-beauty.jpg",
-      "title": "Kids Dental Care",
-      "subtitle": "590"
+      "title": "Body Contouring",
+      "subtitle": "590 treatments"
     },
     {
       "icon": "/images/test-beauty.jpg",
-      "title": "Appointments",
-      "subtitle": "1,120"
+      "title": "Appointments Made",
+      "subtitle": "1,120 bookings"
     },
     {
       "icon": "/images/test-beauty.jpg",
-      "title": "Expert Doctors",
-      "subtitle": "1,300"
+      "title": "Certified Experts",
+      "subtitle": "1,300 professionals"
     }
   ]
 }
