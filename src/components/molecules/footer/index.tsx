@@ -15,7 +15,7 @@ function Footer() {
           <Menu title="Product" data={DataMenu.data.product} />
           <Menu title="Company" data={DataMenu.data.company} />
           <div className="col-span-2 text-white space-y-4">
-            <span className="font-semibold leading-6 text-sm md:text-base">
+            <span className="font-semibold leading-6 text-primary-dark text-sm md:text-base">
               Subscribe & Free Rewards
             </span>
             <div className="relative mt-3">
@@ -35,7 +35,7 @@ function Footer() {
               </Button>
             </div>
             <div className="mt-[30px] space-y-3">
-              <span className="font-semibold leading-6 text-sm md:text-base">
+              <span className="font-semibold leading-6 text-primary-dark text-sm md:text-base">
                 Choose Language
               </span>
               <div className="flex items-center space-x-2.5">
@@ -46,7 +46,7 @@ function Footer() {
                   width={0}
                   className="w-[26.67px] h-5"
                 />
-                <span className="leading-6 text-sm md:text-base">
+                <span className="leading-6 text-primary-dark text-sm md:text-base">
                   English (UK)
                 </span>
                 <Image
@@ -62,18 +62,11 @@ function Footer() {
         </div>
         <Separator className="my-[50px] bg-separator-foreground" />
         <div className="flex flex-col items-center text-center md:flex-row md:justify-between">
-          <div className="flex items-center space-x-4">
-            <Image
-              src="/logo-beauty.png"
-              alt="logo"
-              height={36}
-              width={133}
-            />
-            <h1 className="font-bold text-white text-lg md:text-2xl">
-              Dental Clinic
-            </h1>
+          <div className="flex items-center">
+            <Image src="/logo-beauty.png" alt="logo" height={36} width={133} />
+            <h1 className="font-bold text-lg md:text-2xl">Dental Clinic</h1>
           </div>
-          <span className="leading-6 lg:text-right text-white text-sm md:text-base">
+          <span className="leading-6 lg:text-right text-primary-dark text-sm md:text-base">
             All Rights Reserved by Naditechno 2025
           </span>
         </div>

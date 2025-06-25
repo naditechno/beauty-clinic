@@ -13,7 +13,7 @@ function Menu({
   data: FooterProps[]
 }) {
   return (
-    <div className="text-white space-y-3 md:space-y-4">
+    <div className="text-primary-dark space-y-3 md:space-y-4">
       <span className="font-semibold leading-6 text-sm md:text-base">
         {title}
       </span>
