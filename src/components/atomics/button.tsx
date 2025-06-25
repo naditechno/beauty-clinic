@@ -11,7 +11,7 @@ const buttonVariants = cva(
       variant: {
         default: 'bg-primary text-white disabled:bg-primary-foreground disabled:text-black/30',
         secondary: 'bg-secondary text-white disabled:bg-primary-foreground disabled:text-black/30',
-        third: 'bg-gray-light text-secondary disabled:bg-primary-foreground disabled:text-black/30',
+        third: 'bg-gray-light text-primary-dark disabled:bg-primary-foreground disabled:text-black/30',
         carousel: 'bg-white hover:bg-secondary text-black hover:text-white shadow-indicator hover:shadow-none',
         calendar: 'bg-white hover:bg-primary text-black hover:text-white shadow-indicator hover:shadow-none',
         disabled: 'bg-gray-200 text-black shadow-indicator',

@@ -72,7 +72,7 @@ export default function PromoSection({
       </div>
       <div className="w-full flex justify-center mt-4">
         <Button variant="default" size="button" className="shadow-button">
-          Klaim Promo Sekarang
+          Claim Promo Now
         </Button>
       </div>
     </section>

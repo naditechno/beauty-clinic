@@ -13,11 +13,11 @@ export default function FAQSection() {
     <section id="faq-section" className="container mx-auto my-[100px] px-5">
       <div className="text-center mb-10">
         <h2 className="text-3xl font-bold text-primary dark:text-primary-dark">
-          Sozo Beauty Clinic Terbaik dengan Harga Terjangkau
+          Best Beauty Clinic with Affordable Prices
         </h2>
         <p className="text-subtitle mt-4">
-          Mau perawatan hemat tapi efektif? Daftar dan reservasi ke Sozo Skin
-          Clinic terdekat sekarang!
+          Want an economical yet effective treatment? Register and make a
+          reservation at the nearest Beauty Clinic now!
         </p>
         <div className="w-full flex justify-center mt-4">
           <div className="w-1/4">
