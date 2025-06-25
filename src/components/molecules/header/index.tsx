@@ -36,13 +36,16 @@ function Header() {
               <Link href="/">Home</Link>
             </li>
             <li className="cursor-pointer font-semibold leading-6 hover:text-primary">
-              <Link href="#categories-section">Dental Services</Link>
+              <Link href="#services-section">Beauty Services</Link>
             </li>
             <li className="cursor-pointer font-semibold leading-6 hover:text-primary">
-              <Link href="#benefits-section">Our Services</Link>
+              <Link href="#promo-section">Promo</Link>
             </li>
             <li className="cursor-pointer font-semibold leading-6 hover:text-primary">
-              <Link href="#review-section">Testimonials</Link>
+              <Link href="#benefits-section">Benefits</Link>
+            </li>
+            <li className="cursor-pointer font-semibold leading-6 hover:text-primary">
+              <Link href="#faq-section">FAQ</Link>
             </li>
           </ul>
         </nav>
@@ -59,37 +62,6 @@ function Header() {
             reservation
           </Button>
         </div>
-
-        <DropdownMenu>
-          <DropdownMenuTrigger
-            data-login={!!session?.user}
-            className="data-[login=false]:hidden outline-none"
-          >
-            <div className="flex items-center space-x-2">
-              <Title title={session?.user.name} section="header" />
-              <Image
-                src="/images/download.png"
-                alt="avatar"
-                height={48}
-                width={48}
-                className="rounded-full w-10 h-10 lg:w-12 lg:h-12"
-              />
-            </div>
-          </DropdownMenuTrigger>
-          <DropdownMenuContent className="w-[240px] mr-8 space-y-4">
-            <DropdownMenuItem>
-              <Link href={"/dashboard"}>Dashboard</Link>
-            </DropdownMenuItem>
-            <DropdownMenuItem>
-              <Link href={"/dashboard/my-listings"}>My Listings</Link>
-            </DropdownMenuItem>
-            <DropdownMenuItem>My Rentals</DropdownMenuItem>
-            <DropdownMenuItem>Settings</DropdownMenuItem>
-            <DropdownMenuItem onClick={() => signOut()}>
-              Logout
-            </DropdownMenuItem>
-          </DropdownMenuContent>
-        </DropdownMenu>
 
         <div className="md:hidden">
           <DropdownMenu>

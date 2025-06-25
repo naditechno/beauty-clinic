@@ -54,7 +54,7 @@ function Title({
 }) {
   return (
     <div data-reverse={reverse} className='flex data-[reverse=false]:flex-col data-[reverse=true]:flex-col-reverse data-[reverse=true]:text-right'>
-      <h1 className={`font-bold text-secondary ${getTitleStyle(section)}`}>
+      <h1 className={`font-bold text-primary-dark ${getTitleStyle(section)}`}>
         { title }  
       </h1>
       <h2 className={getSubtitleStyle(section)}>

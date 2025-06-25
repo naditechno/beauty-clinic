@@ -46,13 +46,13 @@ export default function PromoSection({
 
   return (
     <section
-      id="categories-section"
+      id="promo-section"
       className="bg-gray-light container xl:mx-auto px-5 py-[50px]"
     >
       <div className="flex flex-col text-center lg:text-left sm:flex-row items-center justify-between gap-4">
         <Title
-          title="Our Services"
-          subtitle="Comprehensive dental care for your family"
+          title="Latest Beauty Promo"
+          subtitle="Special skincare deals for a more radiant you"
         />
         <Button variant="default" size="button" className="shadow-button">
           Explore All
@@ -70,11 +70,11 @@ export default function PromoSection({
           </div>
         ))}
       </div>
-        <div className="w-full flex justify-center mt-4">
-          <Button variant="default" size="button" className="shadow-button">
-            Klaim Promo Sekarang
-          </Button>
-        </div>
+      <div className="w-full flex justify-center mt-4">
+        <Button variant="default" size="button" className="shadow-button">
+          Klaim Promo Sekarang
+        </Button>
+      </div>
     </section>
   );
 }

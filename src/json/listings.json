@@ -2,87 +2,99 @@
   "data": [
     {
       "id": 1,
-      "title": "Teeth Whitening",
-      "slug": "teeth-whitening",
-      "description": "Brighten your smile safely and effectively with our professional whitening treatment.",
-      "address": "Dental Clinic, 123 Smile Avenue, Jakarta",
-      "duration_minutes": 45,
+      "title": "Brightening Facial",
+      "slug": "brightening-facial",
+      "description": "Mencerahkan kulit wajah secara menyeluruh dengan perawatan facial yang lembut dan efektif.",
+      "address": "Sozo Skin Clinic, Jl. Cantik Alami No. 88, Jakarta",
+      "duration_minutes": 60,
       "doctor": "Dr. Anisa Wijaya",
-      "price": 500000,
-      "attachments": ["/images/teeth-whitening.jpg"],
+      "price": 450000,
+      "attachments": ["/images/brightening-facial.jpg"],
       "benefits": [
-        "Safe procedure",
-        "Instant result",
-        "Long-lasting brightness"
+        "Kulit tampak lebih cerah",
+        "Mengurangi kusam",
+        "Melembapkan dan menyegarkan"
       ]
     },
     {
       "id": 2,
-      "title": "Dental Implants",
-      "slug": "dental-implants",
-      "description": "Replace missing teeth with natural-looking, permanent dental implants.",
-      "address": "Dental Clinic, 123 Smile Avenue, Jakarta",
-      "duration_minutes": 90,
+      "title": "Laser Acne Treatment",
+      "slug": "laser-acne-treatment",
+      "description": "Mengatasi jerawat dan bekasnya secara efektif dengan teknologi laser terbaru tanpa rasa sakit.",
+      "address": "Sozo Skin Clinic, Jl. Cantik Alami No. 88, Jakarta",
+      "duration_minutes": 45,
       "doctor": "Dr. Budi Santoso",
-      "price": 7500000,
-      "attachments": ["/images/implants.jpg"],
-      "benefits": ["Permanent solution", "Improved chewing", "Aesthetic look"]
+      "price": 650000,
+      "attachments": ["/images/laser-acne.jpg"],
+      "benefits": [
+        "Mengurangi jerawat aktif",
+        "Menyamarkan bekas jerawat",
+        "Tanpa downtime"
+      ]
     },
     {
       "id": 3,
-      "title": "Orthodontic Braces",
-      "slug": "orthodontic-braces",
-      "description": "Straighten your teeth and improve bite alignment with braces.",
-      "address": "Dental Clinic, 123 Smile Avenue, Jakarta",
-      "duration_minutes": 60,
+      "title": "Botox Wrinkle Reduction",
+      "slug": "botox-wrinkle-reduction",
+      "description": "Menyamarkan garis halus dan kerutan dengan injeksi botox oleh dokter berpengalaman.",
+      "address": "Sozo Skin Clinic, Jl. Cantik Alami No. 88, Jakarta",
+      "duration_minutes": 30,
       "doctor": "Dr. Lestari Putri",
-      "price": 10000000,
-      "attachments": ["/images/braces.jpg"],
+      "price": 1200000,
+      "attachments": ["/images/botox.jpg"],
       "benefits": [
-        "Better alignment",
-        "Improved oral health",
-        "Boosted confidence"
+        "Wajah tampak lebih muda",
+        "Prosedur cepat",
+        "Efek terlihat dalam hitungan hari"
       ]
     },
     {
       "id": 4,
-      "title": "Pediatric Dentistry",
-      "slug": "pediatric-dentistry",
-      "description": "Gentle dental care specially tailored for children.",
-      "address": "Dental Clinic, 123 Smile Avenue, Jakarta",
-      "duration_minutes": 30,
+      "title": "Skin Rejuvenation",
+      "slug": "skin-rejuvenation",
+      "description": "Perawatan menyeluruh untuk meregenerasi kulit dan meningkatkan elastisitas serta tekstur wajah.",
+      "address": "Sozo Skin Clinic, Jl. Cantik Alami No. 88, Jakarta",
+      "duration_minutes": 75,
       "doctor": "Dr. Fajar Hadi",
-      "price": 250000,
-      "attachments": ["/images/kids-dental.jpg"],
+      "price": 950000,
+      "attachments": ["/images/rejuvenation.jpg"],
       "benefits": [
-        "Child-friendly care",
-        "Stress-free visits",
-        "Preventive education"
+        "Kulit lebih halus",
+        "Meningkatkan kolagen",
+        "Efek glowing alami"
       ]
     },
     {
       "id": 5,
-      "title": "Root Canal Treatment",
-      "slug": "root-canal-treatment",
-      "description": "Relieve tooth pain by treating the infected pulp and saving your tooth.",
-      "address": "Dental Clinic, 123 Smile Avenue, Jakarta",
-      "duration_minutes": 75,
+      "title": "Chemical Peeling",
+      "slug": "chemical-peeling",
+      "description": "Eksfoliasi kulit dengan bahan aktif untuk mengangkat sel kulit mati dan meratakan warna kulit.",
+      "address": "Sozo Skin Clinic, Jl. Cantik Alami No. 88, Jakarta",
+      "duration_minutes": 40,
       "doctor": "Dr. Maya Rahma",
-      "price": 850000,
-      "attachments": ["/images/root-canal.jpg"],
-      "benefits": ["Pain relief", "Tooth preservation", "Advanced equipment"]
+      "price": 500000,
+      "attachments": ["/images/chemical-peel.jpg"],
+      "benefits": [
+        "Kulit lebih cerah dan bersih",
+        "Mengurangi noda hitam",
+        "Membantu mengontrol minyak berlebih"
+      ]
     },
     {
       "id": 6,
-      "title": "Tooth Extraction",
-      "slug": "tooth-extraction",
-      "description": "Safe and clean tooth removal by experienced dental surgeons.",
-      "address": "Dental Clinic, 123 Smile Avenue, Jakarta",
-      "duration_minutes": 40,
+      "title": "V-Shape Face Contouring",
+      "slug": "vshape-face-contouring",
+      "description": "Perawatan kontur wajah non-bedah untuk mendapatkan tampilan wajah V-line yang ideal.",
+      "address": "Sozo Skin Clinic, Jl. Cantik Alami No. 88, Jakarta",
+      "duration_minutes": 60,
       "doctor": "Dr. Andi Mahendra",
-      "price": 300000,
-      "attachments": ["/images/extraction.jpg"],
-      "benefits": ["Quick recovery", "Minimal discomfort", "Expert procedure"]
+      "price": 1350000,
+      "attachments": ["/images/vshape-contour.jpg"],
+      "benefits": [
+        "Wajah terlihat lebih tirus",
+        "Tanpa operasi",
+        "Hasil natural dan proporsional"
+      ]
     }
   ]
 }
