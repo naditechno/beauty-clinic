@@ -4,13 +4,13 @@ export const listingApi = apiSlice.injectEndpoints({
   endpoints: (builder) => ({
     getAllListing: builder.query({
       query: () => ({
-        url: "/listing",
+        url: "/beuty-service",
         method: "GET",
       }),
     }),
     getDetailListing: builder.query({
       query: (slug: string) => ({
-        url: `/listing/${slug}`,
+        url: `/beuty-service/:${slug}`,
         method: "GET",
       }),
     }),
