@@ -50,7 +50,7 @@ function Header() {
           </ul>
         </nav>
 
-        <div>
+        <div className="hidden md:block">
           <Button variant="default" size="default">
             <Image
               src="/icons/wa.svg"

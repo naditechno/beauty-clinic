@@ -22,7 +22,7 @@ function Home() {
               subtitle="Professional aesthetic care at the right price, always here to help you feel confident and beautiful."
               section="hero"
             />
-            <div className="w-1/3 mt-4">
+            <div className="w-1/2 md:w-1/3 mt-4">
               <Button variant="default" size="default">
                 <Image
                   src="/icons/wa.svg"

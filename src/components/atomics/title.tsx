@@ -2,7 +2,7 @@
 const getTitleStyle = (section: string) => {
   switch (section) {
     case "hero":
-      return "md:w-3/4 text-white md:text-primary-dark text-[32px] leading-[48px] sm:text-[40px] sm:leading-[60px] lg:text-[55px] lg:leading-[82.5px]";
+      return "md:w-3/4 text-primary-dark md:text-primary-dark text-[32px] leading-[48px] sm:text-[40px] sm:leading-[60px] lg:text-[55px] lg:leading-[82.5px]";
     case "header":
       return "text-sm sm:text-base font-semibold leading-6";
     case "categories":
@@ -23,7 +23,7 @@ const getTitleStyle = (section: string) => {
 const getSubtitleStyle = (section: string) => {
   switch (section) {
     case "hero":
-      return "inline-block text-base sm:text-lg leading-7 sm:leading-8 text-charcoal";
+      return "hidden md:inline-block text-base sm:text-lg leading-7 sm:leading-8 text-charcoal";
     case "header":
       return "text-xs sm:text-sm leading-[18px] sm:leading-[21px] text-subtitle";
     case "categories":

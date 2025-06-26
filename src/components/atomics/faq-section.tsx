@@ -20,7 +20,7 @@ export default function FAQSection() {
           reservation at the nearest Beauty Clinic now!
         </p>
         <div className="w-full flex justify-center mt-4">
-          <div className="w-1/4">
+          <div className="w-1/2 md:w-1/4">
             <Button variant="default" size="default">
               <Image
                 src="/icons/wa.svg"
